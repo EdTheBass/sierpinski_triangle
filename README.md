@@ -1,4 +1,4 @@
-# sierpinski_triangle
+# sierpinski triangle
 Sierpinski triangle made with Python, using pygame
 
 
